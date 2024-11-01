@@ -2,6 +2,8 @@
 // https://arena.petlja.org/competition/r1-11-utvrdjivanje-tkm-k003#tab_89119 
 // https://arena.petlja.org/competition/tkm-003-ok-do-2017#tab_89119 
 // https://www.petlja.org/biblioteka/r/Problems/2008-okruzno-ss-saksije 
+// https://github.com/draganilicnis/TKM_2007_08_OK_Z03_A1_Saksije/blob/main/TKM_2007_08_OK_Z03_A1_Saksije.cs
+// https://onlinegdb.com/Lx6bRcMvX
 
 using System;
 
